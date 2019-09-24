@@ -125,12 +125,16 @@ $C_i = median{A_{i-1} \times B_1, A_i \times B_2, A_{i+1}\times B_3}$
    1&1&1\\
    1&1&1
    \end{pmatrix}$
+   Note: the sum = 1.
+   
 2) High-Pass Filter: sharpen an image.
    $\begin{pmatrix}
    -1&-1&-1\\
    -1&9&-1\\
    -1&-1&-1
    \end{pmatrix}$
+
+   Note: the sum > 0.
 
 ---
 
@@ -147,10 +151,15 @@ $C_i = median{A_{i-1} \times B_1, A_i \times B_2, A_{i+1}\times B_3}$
    0&0&0\\
    1&2&1
    \end{pmatrix}$
-4) Laplacian Edge Enhancement
+
+   Note: the sum is 0.
+
+4) Laplacian Edge Enhancement: Get all edges.
    
    $\begin{pmatrix}
    -1&-1&-1\\
    -1&8&-1\\
    -1&-1&-1
    \end{pmatrix}$
+
+   Note: the sum is 0.
