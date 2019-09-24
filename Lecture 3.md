@@ -1,7 +1,5 @@
-CSC3185
+# Lecture 3: Digital Images
 
-- [Lecture 1](#lecture-1)
-- [Lecture 2](#lecture-2)
 - [Lecture 3: Digital Images](#lecture-3-digital-images)
   - [Definitions](#definitions)
   - [Images Format](#images-format)
@@ -28,12 +26,6 @@ CSC3185
     - [Pixel Aspect Ratio](#pixel-aspect-ratio)
     - [Compression](#compression)
     - [Basic Operations](#basic-operations)
-
-# Lecture 1
-
-# Lecture 2
-
-# Lecture 3: Digital Images
 
 ## Definitions
 - _Image_: a **spatial presentation of an object**, a 2-D or 3-D scene or another image.
