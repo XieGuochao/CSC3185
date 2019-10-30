@@ -8,7 +8,7 @@ marp: true
 
 - [Lecture 7 : Image & Recognition (3)](#lecture-7--image--recognition-3)
   - [Statistical IR Approach (StatIR)](#statistical-ir-approach-statir)
-  - [Syntactic IP Approach (StyntIR)](#syntactic-ip-approach-styntir)
+  - [Syntactic IP Approach (SyntIR)](#syntactic-ip-approach-syntir)
   - [Neural Networks IR Approach](#neural-networks-ir-approach)
   - [ANN (Artificial Neural Networoks)](#ann-artificial-neural-networoks)
     - [Back-Propagation (BP)](#back-propagation-bp)
@@ -38,7 +38,7 @@ marp: true
 
 ---
 
-## Syntactic IP Approach (StyntIR)
+## Syntactic IP Approach (SyntIR)
 
 - **Structural information**
 - Quantify and extract **structural** information and to assess structural similarity of patterns.
@@ -98,7 +98,7 @@ Deep learning: a series of algorithms; Feature extraction by neural network.
 
 - Frequency domain: respect to frequency.
   - In 2D cases, frequency domain is the space defined by values of the _Fourier transform_ and its frequency variables.
-  - How much the signal lies wthin each given frequency band.
+  - How much the signal lies within each given frequency band.
   - Decompose a function into frequencies, with more than one sine wave.
 
 ---

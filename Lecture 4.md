@@ -81,7 +81,7 @@ $\gamma>1$: enhance **contrast** in the **bright** regions.
 
 - Mask: every pixel is a weight.
 - Weights modify relationships between pixels.
-- Convolution size = $(M_1 - M_2 + 1) \ times (N_1 - N_2 + 1)$
+- Convolution size = $(M_1 - M_2 + 1) \times (N_1 - N_2 + 1)$
 
 ---
 
